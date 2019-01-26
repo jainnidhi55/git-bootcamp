@@ -20,7 +20,7 @@
 
 /*
   Create empty queue.
-  Return NULL if could not allocate space.
+  hi test Return NULL if could not allocate space.
 */
 queue_t *q_new()
 {
